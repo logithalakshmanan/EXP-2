@@ -1,10 +1,14 @@
 # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
-Aim:
+
+Aim: ![WhatsApp Image 2025-10-21 at 9 32 53 PM](https://github.com/user-attachments/assets/588d358d-6334-4db2-96ec-288eadbded4f)
+
 To conduct load test on separately excited generators and to obtain the characteristics
 
-Apparatus Required:
+
+Apparatus Required: ![WhatsApp Image 2025-10-21 at 9 33 07 PM](https://github.com/user-attachments/assets/d71fd458-8511-4fa3-9039-05bdb7bcc1c3)
+
 
 Sl .no	Apparatus	Range	Type	Quantity
 1	Volt meter	(0-300)V	MC	1
@@ -49,15 +53,31 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+![WhatsApp Image 2025-10-19 at 1 32 55 PM (1)](https://github.com/user-attachments/assets/c2d09631-b1d0-4f7c-8828-2d4a0194fb2f)
+
+
 Tabulation for Load Test:
 
+![WhatsApp Image 2025-10-19 at 1 32 57 PM](https://github.com/user-attachments/assets/949eb07a-8733-4161-8234-1bff1acb104c)
+
+
 Model graph:
+
+![WhatsApp Image 2025-10-19 at 1 32 56 PM (1)](https://github.com/user-attachments/assets/51a82cd0-6c35-4749-8005-47519764d06c)
+![WhatsApp Image 2025-10-19 at 1 32 56 PM](https://github.com/user-attachments/assets/1f23e982-d9ae-4fa1-9f87-fcad8e74591a)
+
 Calculation: 
 
 Open circuit characteristics
+![WhatsApp Image 2025-10-19 at 1 32 55 PM](https://github.com/user-attachments/assets/d5c1126b-1d9f-43c1-a1a0-a40400bf2007)
+
 
   
 Load Characteristics:
+![WhatsApp Image 2025-10-19 at 1 32 54 PM](https://github.com/user-attachments/assets/5a4ddb49-91d2-4043-aa6f-e81ade180033)
+
  
-Result:
+
+Result: ![WhatsApp Image 2025-10-21 at 9 32 53 PM (1)](https://github.com/user-attachments/assets/f30d13f1-a3e1-4a05-802b-358ff2e35a4a)
+
 The load test on separately excited generators and to obtain the characteristics was verified.
